@@ -1,4 +1,3 @@
-06_orders.sql
 -- Clear existing data to prevent duplication
 TRUNCATE TABLE Orders RESTART IDENTITY CASCADE;
 

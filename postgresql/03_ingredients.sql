@@ -1,4 +1,3 @@
-03_ingredients.sql
 -- Clear existing data to prevent duplication
 TRUNCATE TABLE Ingredients RESTART IDENTITY CASCADE;
 
